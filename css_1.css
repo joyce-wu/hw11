@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  background-color: MediumSeaGreen;
+  color: White;
+  font-family: Helvetica;
+}
+
+h2 {
+  font-family: Helvetica;
+  color: MediumSeaGreen;
+  text-align: center;
+}
+
+h3 {
+  font-family: Helvetica;
+  color: black;
+}
+
+a:link {
+  font-family: Helvetica;
+  color: Gray;
+  text-decoration: none;
+}
+
+a:visited {
+  font-family: Helvetica;
+  color: #ffcc00;
+  text-decoration: none;
+  color: Black
+}
+
+p {
+  font-family: Helvetica;
+  text-align: center;
+  font-style: Bold;
+}

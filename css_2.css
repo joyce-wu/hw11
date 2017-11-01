@@ -1,0 +1,37 @@
+ul {
+  list-style-type: none;
+  width: 200px;
+  background-color: #b3b3b3;
+  font-family: Helvetica;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  color: Black;
+  text-decoration: none;
+  padding: 8px 16px;
+}
+
+li a:hover {
+  background-color: Black;
+  color: White;
+}
+
+h1 {
+  font-family: Helvetica;
+  color: Black;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2, h3 {
+  font-family: Helvetica;
+  font-size: 150%;
+}
+
+p{
+  font-family: Helvetica;
+  text-shadow: 2px 2px #ccccff;
+  font-size: 170%;
+}
